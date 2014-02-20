@@ -1,30 +1,10 @@
 {
-  "author": {
-    "name": "Enrico Marino",
-    "email": "enrico.marino@email.com"
-  },
-  "maintainers": [ 
-    {
-      "name": "Enrico Marino",
-      "email": "enrico.marino@email.com"
-    },
-    {
-      "name": "Federico Spini",
-      "email": "federico.spini@gmail.com"
-    } 
-  ],
-  "name": "f",
+  "name": "cvdlab-f",
   "description": "JavaScript functional library",
   "version": "0.7.0",
-  "homepage": "https://github.com/cvdlab/f",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/cvdlab/f.git"
-  },
-  "main": "./index.js",
-  "engines": {
-    "node": "*"
-  },
+  "keywords": [
+    "functional"
+  ],
   "dependencies": {},
-  "devDependencies": {}
+  "license": "MIT"
 }
